@@ -4,7 +4,7 @@ public class greterNO {
 	
 	public static void main(String[] args) {
 		
-		int num [] = { 12, 13, 67,98,45};
+		int num [] = { 1, 11, 21,31,41};
 		
 		int maxnum = 0;
 		
