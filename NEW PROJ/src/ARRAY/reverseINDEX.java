@@ -3,7 +3,7 @@ package ARRAY;
 public class reverseINDEX {
 	public static void main(String[] args) {
 		
-	int [] d = {23,34,45,56,67,78,90};
+	int [] d = {23,34,45,56,67,78};
 	
 	for(int i=0; i<d.length; i++) {
 		System.out.print(d[i]+ " ");
